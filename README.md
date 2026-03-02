@@ -1,23 +1,22 @@
 fetch_california_housing dataset is used to understand Regression Algorithms: Linear Regression, Polynomial Regression, Support Vector Regression, Random Forest Regression, Neural Networks.
 
-**Feature	    Description**
+**Feature	**
 
-MedInc	      Median Income
+MedInc	
 
-HouseAge	    Avg house age
+HouseAge	   
 
-AveRooms	    Avg rooms
+AveRooms	    
 
-AveBedrms	    Avg bedrooms
+AveBedrms	   
 
-Population	  Area population
+Population	
 
-AveOccup	    Avg occupancy
+AveOccup	
 
-Latitude	    Location
+Latitude	 
 
-Longitude	    Location
-
+Longitude	    
 
 **Target:**
 
